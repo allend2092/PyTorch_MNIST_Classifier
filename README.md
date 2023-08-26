@@ -36,7 +36,7 @@ This project is a simple example of a neural network implemented using PyTorch t
 To run the code, simply execute the script. Make sure you have installed PyTorch and torchvision before running.
 
 ```bash
-python your_script_name.py
+python pytorch_mnist_classifier.py
 ```
 
 ### Output
